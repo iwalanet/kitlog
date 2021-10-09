@@ -1,0 +1,13 @@
+github.com/NadiaSama/eslogger v0.2.0 h1:SSTPLz814IUnqYDWJL7PdOJG5hxKb2cnMKHHQda88Qg=
+github.com/NadiaSama/eslogger v0.2.0/go.mod h1:eSbS/sL8wQd/nvbYPrJmXStO0EWNiMdAiAKabBOU8tI=
+github.com/NadiaSama/logrouter v0.1.0 h1:DDqXQKIIdn5OctoJcjCa2MlTRIz9bZU5ikC16fPmLrY=
+github.com/NadiaSama/logrouter v0.1.0/go.mod h1:OZ4GzhjlVi2zhLzT3H61ZN7P5+ETSr4CZ9/f3JBY3iU=
+github.com/go-kit/log v0.1.0/go.mod h1:zbhenjAZHb184qTLMA9ZjW7ThYL0H2mk7Q6pNt4vbaY=
+github.com/go-kit/log v0.2.0 h1:7i2K3eKTos3Vc0enKCfnVcgHh2olr/MyfboYq7cAcFw=
+github.com/go-kit/log v0.2.0/go.mod h1:NwTd00d/i8cPZ3xOwwiv2PO5MOcx78fFErGNcVmBjv0=
+github.com/go-logfmt/logfmt v0.5.0/go.mod h1:wCYkCAKZfumFQihp8CzCvQ3paCTfi41vtzG1KdI/P7A=
+github.com/go-logfmt/logfmt v0.5.1 h1:otpy5pqBCBZ1ng9RQ0dPu4PN7ba75Y/aA+UpowDyNVA=
+github.com/go-logfmt/logfmt v0.5.1/go.mod h1:WYhtIu8zTZfxdn5+rREduYbwxfcBr/Vr6KEVveWlfTs=
+github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
