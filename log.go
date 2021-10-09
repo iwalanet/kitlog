@@ -59,10 +59,10 @@ func Close() error {
 	return gLogger.Close()
 }
 
-//Wrapper 通过log.With以及gLogger, args构建新的wrapper
+//Wrapper 通过gLogger构建新的wrapper
 //设立设置为全局方法便于其他代码使用
-func Wrapper(args ...interface{}) *es.Wrapper {
-	return es.NewWrapper(log.With(gLogger.logger, args...))
+func Wrapper() *es.Wrapper {
+	return es.NewWrapper(gLogger.logger)
 }
 
 func (l *Logger) Log(keyvals ...interface{}) error {
